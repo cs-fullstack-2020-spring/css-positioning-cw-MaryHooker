@@ -27,7 +27,7 @@
     width: 50%;
     float: right;
     text-align: center;
-    padding: 10px 300px 10px; /* you have a ton of left padding so your reduced width isn't reflected*/
+    padding: 30px 300px px;
 }
 
 #div5{
