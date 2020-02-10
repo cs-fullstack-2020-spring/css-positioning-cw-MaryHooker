@@ -24,9 +24,10 @@
 
     border: solid gray 1px;
     width: 550px;
+    width: 50%;
     float: right;
     text-align: center;
-    padding: 10px 300px 10px;
+    padding: 10px 300px 10px; /* you have a ton of left padding so your reduced width isn't reflected*/
 }
 
 #div5{
@@ -43,7 +44,7 @@
     float: right;
     width: 550px;
     text-align: center;
-    padding: 10px 300px 10px;
+    padding: 10px 300px 10px; /* you have a ton of left padding so your reduced width isn't reflected*/
 
 }
 
